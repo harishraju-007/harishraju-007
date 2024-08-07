@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Harish Raju from Salem<br><br>- 📚 Java FSE t<br>- </p>
+<p align="left">I'm Harish Raju from Salem<br><br>- 📚 Java FSE <br> </p>
 
 ###
 
