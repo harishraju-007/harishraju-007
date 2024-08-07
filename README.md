@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Harish Raju from Salem<br><br>- 📚 I'm currently learning Full Stack Development<br>- ⚡ In my free time I code</p>
+<p align="left">I'm Harish Raju from Salem<br><br>- 📚 Java FSE t<br>- </p>
 
 ###
 
